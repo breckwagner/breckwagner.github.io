@@ -10,3 +10,6 @@ github_username:  breckwagner
 
 # Build settings
 markdown: kramdown
+
+plugins:
+  - jekyll-redirect-from
