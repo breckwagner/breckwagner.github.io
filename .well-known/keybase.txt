@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/breckwagner
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://breck.dev
+  * I am breckwagner (https://keybase.io/breckwagner) on keybase.
+  * I have a public key ASAPeWTpSpss97_hoioUns67qbPB8Id1jL4Nf0YFXUzDPQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101553616debdd843012532a7d798eb433e5fda8d5801cb06c443f873e71ee36ce30a",
+      "host": "keybase.io",
+      "kid": "01200f7964e94a9b2cf7bfe1a22a149ecebba9b3c1f087758cbe0d7f46055d4cc33d0a",
+      "uid": "c803ecd411b1d4a08ba11d1e20e22200",
+      "username": "breckwagner"
+    },
+    "merkle_root": {
+      "ctime": 1555787271,
+      "hash": "34bc522ac1ad6de860eb1406c69c6f04b865499f4982e11c2f503f5e23529bee218c77ecb1be4ce14616338aa3484d843a66e9043f8e2ee66df14a1fba3c92da",
+      "hash_meta": "c616e2a2fec7bc792e74aeb7fa41f1ab1fcbc4c104c500821b9b4be0975eb5e0",
+      "seqno": 5211202
+    },
+    "service": {
+      "entropy": "/730kbXQLEtKMk0EoE1/GKek",
+      "hostname": "breck.dev",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "3.2.2"
+  },
+  "ctime": 1555787287,
+  "expire_in": 504576000,
+  "prev": "3124cfb0394b6f9b53840ec976af339acbea3530dfced9e1a00c800ec52c7522",
+  "seqno": 24,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgD3lk6UqbLPe/4aIqFJ7Ou6mzwfCHdYy+DX9GBV1Mwz0Kp3BheWxvYWTESpcCGMQgMSTPsDlLb5tThA7Jdq8zmsvqNTDfztnhoAyADsUsdSLEICSQ+oxec9XOUnK1D8RafjmZmE6ocl8jH5kXhIdTcDbxAgHCo3NpZ8RAWt2eK4Q9hsDPKNOLGYUeXzUi7fQaeKjwhuKhtyWxnbG3a0TnrabRD6CTgHnscBANFjPeEBlKOBA70d07mBE3DqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIDK3lykvoU8WpExKHppaXrz2PFVgsDWbJcJ5IDLm12Mro3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/breckwagner
+
+==================================================================
